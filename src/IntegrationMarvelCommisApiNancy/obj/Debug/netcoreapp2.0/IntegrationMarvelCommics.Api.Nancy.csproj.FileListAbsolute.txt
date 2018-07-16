@@ -1,0 +1,16 @@
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommisApiNancy\bin\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.Nancy.deps.json
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommisApiNancy\bin\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.Nancy.runtimeconfig.json
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommisApiNancy\bin\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.Nancy.runtimeconfig.dev.json
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommisApiNancy\bin\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.Nancy.dll
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommisApiNancy\bin\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.Nancy.pdb
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommisApiNancy\obj\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.Nancy.csprojAssemblyReference.cache
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommisApiNancy\obj\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.Nancy.csproj.CoreCompileInputs.cache
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommisApiNancy\obj\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.Nancy.AssemblyInfoInputs.cache
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommisApiNancy\obj\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.Nancy.AssemblyInfo.cs
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommisApiNancy\obj\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.Nancy.dll
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommisApiNancy\obj\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.Nancy.pdb
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommisApiNancy\bin\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.CrossCutting.dll
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommisApiNancy\bin\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.Domain.dll
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommisApiNancy\bin\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.CrossCutting.pdb
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommisApiNancy\bin\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.Domain.pdb
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommisApiNancy\obj\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.Nancy.csproj.CopyComplete

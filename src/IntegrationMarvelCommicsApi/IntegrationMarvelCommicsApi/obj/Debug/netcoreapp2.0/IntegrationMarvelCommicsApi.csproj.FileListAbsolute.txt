@@ -1,0 +1,11 @@
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommicsApi\IntegrationMarvelCommicsApi\bin\Debug\netcoreapp2.0\IntegrationMarvelCommicsApi.deps.json
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommicsApi\IntegrationMarvelCommicsApi\bin\Debug\netcoreapp2.0\IntegrationMarvelCommicsApi.runtimeconfig.json
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommicsApi\IntegrationMarvelCommicsApi\bin\Debug\netcoreapp2.0\IntegrationMarvelCommicsApi.runtimeconfig.dev.json
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommicsApi\IntegrationMarvelCommicsApi\bin\Debug\netcoreapp2.0\IntegrationMarvelCommicsApi.dll
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommicsApi\IntegrationMarvelCommicsApi\bin\Debug\netcoreapp2.0\IntegrationMarvelCommicsApi.pdb
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommicsApi\IntegrationMarvelCommicsApi\obj\Debug\netcoreapp2.0\IntegrationMarvelCommicsApi.csprojAssemblyReference.cache
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommicsApi\IntegrationMarvelCommicsApi\obj\Debug\netcoreapp2.0\IntegrationMarvelCommicsApi.csproj.CoreCompileInputs.cache
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommicsApi\IntegrationMarvelCommicsApi\obj\Debug\netcoreapp2.0\IntegrationMarvelCommicsApi.AssemblyInfoInputs.cache
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommicsApi\IntegrationMarvelCommicsApi\obj\Debug\netcoreapp2.0\IntegrationMarvelCommicsApi.AssemblyInfo.cs
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommicsApi\IntegrationMarvelCommicsApi\obj\Debug\netcoreapp2.0\IntegrationMarvelCommicsApi.dll
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommicsApi\IntegrationMarvelCommicsApi\obj\Debug\netcoreapp2.0\IntegrationMarvelCommicsApi.pdb

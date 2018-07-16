@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "IntegrationMarvelCommics.Api.CrossCutting/1.0.0": {
+        "dependencies": {
+          "IntegrationMarvelCommics.Api.Domain": "1.0.0",
+          "Microsoft.AspNetCore.Mvc.Core": "2.0.4.0",
+          "Microsoft.Extensions.Configuration.Abstractions": "2.0.2.0",
+          "Newtonsoft.Json": "10.0.0.0"
+        },
+        "runtime": {
+          "IntegrationMarvelCommics.Api.CrossCutting.dll": {}
+        }
+      },
+      "IntegrationMarvelCommics.Api.Domain/1.0.0": {
+        "runtime": {
+          "IntegrationMarvelCommics.Api.Domain.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Mvc.Core/2.0.4.0": {
+        "runtime": {
+          "Microsoft.AspNetCore.Mvc.Core.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/2.0.2.0": {
+        "runtime": {
+          "Microsoft.Extensions.Configuration.Abstractions.dll": {}
+        }
+      },
+      "Newtonsoft.Json/10.0.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntegrationMarvelCommics.Api.CrossCutting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IntegrationMarvelCommics.Api.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Mvc.Core/2.0.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/2.0.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/10.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

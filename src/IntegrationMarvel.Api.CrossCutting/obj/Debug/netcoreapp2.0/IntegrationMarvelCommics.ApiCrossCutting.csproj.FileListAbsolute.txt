@@ -1,0 +1,9 @@
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvel.Api.CrossCutting\bin\Debug\netcoreapp2.0\IntegrationMarvelCommics.ApiCrossCutting.deps.json
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvel.Api.CrossCutting\bin\Debug\netcoreapp2.0\IntegrationMarvelCommics.ApiCrossCutting.dll
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvel.Api.CrossCutting\bin\Debug\netcoreapp2.0\IntegrationMarvelCommics.ApiCrossCutting.pdb
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvel.Api.CrossCutting\obj\Debug\netcoreapp2.0\IntegrationMarvelCommics.ApiCrossCutting.csprojAssemblyReference.cache
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvel.Api.CrossCutting\obj\Debug\netcoreapp2.0\IntegrationMarvelCommics.ApiCrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvel.Api.CrossCutting\obj\Debug\netcoreapp2.0\IntegrationMarvelCommics.ApiCrossCutting.AssemblyInfoInputs.cache
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvel.Api.CrossCutting\obj\Debug\netcoreapp2.0\IntegrationMarvelCommics.ApiCrossCutting.AssemblyInfo.cs
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvel.Api.CrossCutting\obj\Debug\netcoreapp2.0\IntegrationMarvelCommics.ApiCrossCutting.dll
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvel.Api.CrossCutting\obj\Debug\netcoreapp2.0\IntegrationMarvelCommics.ApiCrossCutting.pdb

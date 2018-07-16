@@ -1,0 +1,11 @@
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommisApiNancy\bin\Debug\netcoreapp2.0\IntegrationMarvelCommisApiNancy.deps.json
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommisApiNancy\bin\Debug\netcoreapp2.0\IntegrationMarvelCommisApiNancy.runtimeconfig.json
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommisApiNancy\bin\Debug\netcoreapp2.0\IntegrationMarvelCommisApiNancy.runtimeconfig.dev.json
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommisApiNancy\bin\Debug\netcoreapp2.0\IntegrationMarvelCommisApiNancy.dll
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommisApiNancy\bin\Debug\netcoreapp2.0\IntegrationMarvelCommisApiNancy.pdb
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommisApiNancy\obj\Debug\netcoreapp2.0\IntegrationMarvelCommisApiNancy.csproj.CoreCompileInputs.cache
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommisApiNancy\obj\Debug\netcoreapp2.0\IntegrationMarvelCommisApiNancy.AssemblyInfoInputs.cache
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommisApiNancy\obj\Debug\netcoreapp2.0\IntegrationMarvelCommisApiNancy.AssemblyInfo.cs
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommisApiNancy\obj\Debug\netcoreapp2.0\IntegrationMarvelCommisApiNancy.dll
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommisApiNancy\obj\Debug\netcoreapp2.0\IntegrationMarvelCommisApiNancy.pdb
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommisApiNancy\obj\Debug\netcoreapp2.0\IntegrationMarvelCommisApiNancy.csprojAssemblyReference.cache
