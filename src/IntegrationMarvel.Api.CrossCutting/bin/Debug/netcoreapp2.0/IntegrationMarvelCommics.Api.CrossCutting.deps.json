@@ -24,17 +24,26 @@
       },
       "Microsoft.AspNetCore.Mvc.Core/2.0.4.0": {
         "runtime": {
-          "Microsoft.AspNetCore.Mvc.Core.dll": {}
+          "Microsoft.AspNetCore.Mvc.Core.dll": {
+            "assemblyVersion": "2.0.4.0",
+            "fileVersion": "2.0.4.18114"
+          }
         }
       },
       "Microsoft.Extensions.Configuration.Abstractions/2.0.2.0": {
         "runtime": {
-          "Microsoft.Extensions.Configuration.Abstractions.dll": {}
+          "Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "assemblyVersion": "2.0.2.0",
+            "fileVersion": "2.0.2.18114"
+          }
         }
       },
       "Newtonsoft.Json/10.0.0.0": {
         "runtime": {
-          "Newtonsoft.Json.dll": {}
+          "Newtonsoft.Json.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1.20720"
+          }
         }
       }
     }
