@@ -14,3 +14,4 @@ C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationM
 C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommicsApi\IntegrationMarvelCommicsApi\obj\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.csproj.CopyComplete
 C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommicsApi\IntegrationMarvelCommicsApi\obj\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.dll
 C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommicsApi\IntegrationMarvelCommicsApi\obj\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.pdb
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommicsApi\IntegrationMarvelCommicsApi\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs

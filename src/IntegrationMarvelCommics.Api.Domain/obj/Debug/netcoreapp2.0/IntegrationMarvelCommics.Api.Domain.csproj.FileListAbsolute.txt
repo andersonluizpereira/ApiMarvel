@@ -1,9 +1,9 @@
 C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommics.Api.Domain\bin\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.Domain.deps.json
 C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommics.Api.Domain\bin\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.Domain.dll
 C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommics.Api.Domain\bin\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.Domain.pdb
-C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommics.Api.Domain\obj\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.Domain.csprojAssemblyReference.cache
 C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommics.Api.Domain\obj\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.Domain.csproj.CoreCompileInputs.cache
 C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommics.Api.Domain\obj\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.Domain.AssemblyInfoInputs.cache
 C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommics.Api.Domain\obj\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.Domain.AssemblyInfo.cs
 C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommics.Api.Domain\obj\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.Domain.dll
 C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommics.Api.Domain\obj\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.Domain.pdb
+C:\Users\AndyeRe\Documents\Visual Studio 2017\Projects\Pessoais\src\IntegrationMarvelCommics.Api.Domain\obj\Debug\netcoreapp2.0\IntegrationMarvelCommics.Api.Domain.csprojAssemblyReference.cache

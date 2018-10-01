@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "01e5771f7e8b429492f0f2274214c7fcc3419588"
+    "signature": "5f7387349cc618e1c38b5f1b94724e94b80f44cd"
   },
   "compilationOptions": {
     "defines": [
@@ -28,6 +28,7 @@
           "IntegrationMarvelCommics.Api.Domain": "1.0.0",
           "Microsoft.AspNetCore.All": "2.0.8",
           "Microsoft.NETCore.App": "2.0.0",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.0.1872750",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.0.3"
         },
         "runtime": {
@@ -2776,6 +2777,7 @@
           "lib/netstandard1.4/Microsoft.Rest.ClientRuntime.Azure.dll": {}
         }
       },
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.0.1872750": {},
       "Microsoft.VisualStudio.Web.BrowserLink/2.0.3": {
         "dependencies": {
           "Microsoft.AspNetCore.Hosting.Abstractions": "2.0.3",
@@ -5963,6 +5965,13 @@
       "path": "microsoft.rest.clientruntime.azure/3.3.7",
       "hashPath": "microsoft.rest.clientruntime.azure.3.3.7.nupkg.sha512"
     },
+    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.0.1872750": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-v6RqoSWPZxXO//cyu6jovFbcYEgiiFKbk+cL32v2uiA5aoRSqHutNmL2CHrhDRA6cb/LTZLfvbStPZqtG+3gIA==",
+      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.0.1872750",
+      "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.0.1872750.nupkg.sha512"
+    },
     "Microsoft.VisualStudio.Web.BrowserLink/2.0.3": {
       "type": "package",
       "serviceable": true,
@@ -6799,7 +6808,7 @@
     "System.Security.Cryptography.Xml/4.4.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-q9Dren/YP5jhRCkDvLfuaPpMTQzP97ANvzq/OoGgwK8YdLRSTABS9oW5/23OKoM2DRCuBrh4qaecD2YNhPtuzQ==",
+      "sha512": "sha512-1m+fKVrApgKYMRuE0MF0vGjqy4XqAp1rCtyAzMXhJajMDDytMh/rHk9hp4M7KKk3QQZoWJUvyUY7xcw74w+JiQ==",
       "path": "system.security.cryptography.xml/4.4.2",
       "hashPath": "system.security.cryptography.xml.4.4.2.nupkg.sha512"
     },
